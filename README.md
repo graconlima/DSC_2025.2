@@ -1,5 +1,5 @@
 # DSC_2025.2
-### <p><a class="external-link" href="https://drive.google.com/file/d/1miHbZiB7V74053TwH9aa6y6qFlzX5Vte/view?usp=drive_link">Material de Solicitação de conta Azure (por Lucas Pinheiro)</a></p>
+### <p><a class="external-link" href="https://drive.google.com/file/d/1miHbZiB7V74053TwH9aa6y6qFlzX5Vte/view?usp=drive_link">Material de Solicitação de Conta Azure (por Lucas Pinheiro)</a></p>
 
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EUUd2cpzokZLvU5vtXYYMfYBH365URXbDgNgJ3PJVPncrA?e=2Rcljl">e-book </a> - Notas de Aula</p>
