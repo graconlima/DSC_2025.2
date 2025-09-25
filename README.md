@@ -8,7 +8,7 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSC2024.1/EYiMTv-1ijNPp7M6bugreegBdv6Enp2u1UJwokDSqZO8-A?e=MPhMTt">Aula 1</a> - Caracterização</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EeTzKdniY8lLiM6eQr1a4gwBCe2koylmHWOKoFmYS9Be1A?e=gj1O5h">Aula 2</a> - DevOps</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EXu-sn3f5otBvKjluJZc6uwBech995sGCAduL7FoT5-xZQ?e=vpt0b8">Aula 3</a> - Azure (Introdução)</p>
-<p><a class="external-link" href="https://drive.google.com/file/d/1miHbZiB7V74053TwH9aa6y6qFlzX5Vte/view?usp=drive_link">Aula 3.1</a> - Material de Solicitação de conta Azure</p>
+<p><a class="external-link" href="https://drive.google.com/file/d/1miHbZiB7V74053TwH9aa6y6qFlzX5Vte/view?usp=drive_link">Aula 3.1</a> - Material de Solicitação de conta Azure (por Lucas Pinheiro)</p>
 
 <!--
 # Link de apresentação da T2: https://meet.google.com/kux-rses-zia
