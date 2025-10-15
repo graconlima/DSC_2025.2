@@ -18,7 +18,7 @@
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m">Aula 4</a> - Criação de imagens</p>
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT">Aula 4.1</a> - Tarefa 2 (Criação de imagens por commit)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT">Aula 4.1</a> - Tarefa 1 (Criação de imagens por commit)</p>
 
 <!--
 # Link de apresentação da T2: https://meet.google.com/kux-rses-zia
