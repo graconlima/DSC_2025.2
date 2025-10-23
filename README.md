@@ -22,6 +22,13 @@
 <br>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5">Aula 5</a> - Dockerfile</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi">Aula 5.1</a> - Dockerfile (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw">Aula 5.2</a> - Tarefa 3 (Dockerfile)</p>
+<br>
+
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ecj20N788ypAoR0UWeTI0xQBnrWJTP3vwYx2mJlWPn8plA?e=R7TB0c" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ecj20N788ypAoR0UWeTI0xQBnrWJTP3vwYx2mJlWPn8plA?e=R7TB0c">Aula 6</a> - Docker-Compose</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/ET0jpYXH0R9InGG_AJDefLIBKbLSCgUq6-E8KbPe5M8-_w?e=TrZv1G" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/ET0jpYXH0R9InGG_AJDefLIBKbLSCgUq6-E8KbPe5M8-_w?e=TrZv1G">Aula 6.1</a> - Docker-Compose (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ec4gsNc2aHpLi45p1FK7aU0BHOJ1zTgR_ZpbMFMie_SlqA?e=XBO02f" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ec4gsNc2aHpLi45p1FK7aU0BHOJ1zTgR_ZpbMFMie_SlqA?e=XBO02f">Aula 6.2</a> - Tarefa 4 (Docker-Compose)</p>
 
 <!--
 # Link de apresentação da T2: https://meet.google.com/kux-rses-zia
@@ -30,14 +37,7 @@
 <p> </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Eahj17ZyJR5Oh4ShRCoCjB4BH7npMeW0KhBD5od7ChGBnQ?e=WzggYy">Aula 3.3</a> - Tarefa 1 (VM para ambientes)</p>
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi">Aula 5.1</a> - Dockerfile (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw">Aula 5.2</a> - Tarefa 3 (Dockerfile)</p>
 
-<br>
-
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ecj20N788ypAoR0UWeTI0xQBnrWJTP3vwYx2mJlWPn8plA?e=R7TB0c" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ecj20N788ypAoR0UWeTI0xQBnrWJTP3vwYx2mJlWPn8plA?e=R7TB0c">Aula 6</a> - Docker-Compose</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/ET0jpYXH0R9InGG_AJDefLIBKbLSCgUq6-E8KbPe5M8-_w?e=TrZv1G" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/ET0jpYXH0R9InGG_AJDefLIBKbLSCgUq6-E8KbPe5M8-_w?e=TrZv1G">Aula 6.1</a> - Docker-Compose (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ec4gsNc2aHpLi45p1FK7aU0BHOJ1zTgR_ZpbMFMie_SlqA?e=XBO02f" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Ec4gsNc2aHpLi45p1FK7aU0BHOJ1zTgR_ZpbMFMie_SlqA?e=XBO02f">Aula 6.2</a> - Tarefa 4 (Docker-Compose)</p>
 
 <br>
 
